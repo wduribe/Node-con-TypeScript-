@@ -1,4 +1,4 @@
-### Creando un servidor en Node con Typescript ###
+### Configurando Node con Typescript ###
 
 1) Creamos el proyecto
     npm init -y
